@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Tanner C. Myers"
+title                    : "Genomics of biodiversification"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tanner C. Myers"
-description              : "Genomics of biodiversification"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,8 +117,7 @@ author:
   name             : "Tanner Myers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a postdoctoral researcher at the University of Puerto Rico -- Río Piedras."
-  location         : "San Juan, PR"
-  email            : "tannercmyers@gmail.com"
+  location         : "San Juan, PR. I use genomics to understand the evolution of biodiversity"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
