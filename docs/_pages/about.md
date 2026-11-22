@@ -11,6 +11,3 @@ Specifically, I am using pan-genomes to study the landscape of structural variat
 
 In 2025, I completed my PhD at Auburn University, where I worked in the Counterman and Oaks Labs, located at the Auburn Museum of Natural History.
 My doctoral research focused on understanding how geographic isolation and environmental variation contribute to the formation of new species using examples from *Heliconius* butterflies and *Anolis* lizards that span the speciation continuum.
-
-
-{% include gallery id="gallery2" caption="" %}
