@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : 
 description              : "I aim to understand the evolutionary processes that generate novel biodiversity---from phenotypes to species.
                           To reach that goal, I study lineages in nature representing a wide array of taxa--from lizards to butterflies--using cutting-edge genomic approaches."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  "https://tannermyers.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -249,6 +249,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
