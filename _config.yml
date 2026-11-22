@@ -116,8 +116,9 @@ analytics:
 author:
   name             : "Tanner Myers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a postdoctoral researcher at the University of Puerto Rico -- Río Piedras."
-  location         : "San Juan, PR. I use genomics to understand the evolution of biodiversity"
+  bio              : "I am a postdoctoral researcher at the University of Puerto Rico -- Río Piedras.
+                      I use genomics to understand the evolution of biodiversity"
+  location         : "San Juan, PR."
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
